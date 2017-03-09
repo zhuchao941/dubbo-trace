@@ -111,7 +111,7 @@
                         <contextPath>/</contextPath>
                     </webAppConfig>
                     <httpConnector>
-                        <port>10000</port>
+                        <port>10001</port>
                     </httpConnector>
                 </configuration>
             </plugin>
